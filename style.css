@@ -54,7 +54,6 @@ li {
 }
 
 li:hover {
-    background-color: rgb(222, 243, 236);
     cursor: pointer;
 }
 
