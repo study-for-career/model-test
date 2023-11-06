@@ -51,10 +51,7 @@ li {
     border: 1px solid #00000034;
     border-radius: 5px;
     margin-bottom: 8px;
-}
-
-li:hover {
-    cursor: pointer;
+     cursor: pointer;
 }
 
 .correct {
